@@ -6,7 +6,7 @@
 
 I'm a student of Systems Engineering with a strong passion for web development. My skills and interests include:
 
-- 💻 Front-End Technologies: HTML, CSS, Sass, JavaScript, React.js, Vite
+- 💻 Front-End Technologies: HTML, CSS, Sass, JavaScript, React.js,
 - 🖥️ Back-End Technologies: Node.js, Express, Sequelize, REST API
 - 📦 Databases: PostgreSQL (Relational) and MongoDB (NoSQL)
 - 🧰 Languages: JavaScript, Python, and Java
