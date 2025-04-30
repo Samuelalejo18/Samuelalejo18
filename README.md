@@ -9,7 +9,7 @@ I'm a student of Systems Engineering with a strong passion for web development. 
 - 💻 Front-End Technologies: HTML, CSS, Sass, JavaScript, React.js, Angular
 - 🖥️ Back-End Technologies: Node.js, Express, Sequelize, REST API, Nest.js, JWT
 - 📦 Databases: PostgreSQL (Relational) and MongoDB (NoSQL)
-- 🧰 Languages: JavaScript, Python, and Java
+- 🧰 Languages: JavaScript(and TypeScript), Python, and Java
 - 🛠️ Version Control: Git
 - 🎨 Design and development of responsive and appealing web interfaces
 
